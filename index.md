@@ -11,3 +11,8 @@
 ```$ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+# Task Tracker
+- [ ] Turn on Github Pages
+- [ ] Outline My Portfolio
+- [ ] Introduce Myself to the World
